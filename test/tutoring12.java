@@ -27,6 +27,7 @@ public class tutoring12 {
 			Location value = h.get(key);
 			System.out.println(key+" "+value);
 		}
+		System.out.println("------------------------------");
 		while(true) {
 			System.out.println("도시 이름 >> ");
 			country = sc.next();
